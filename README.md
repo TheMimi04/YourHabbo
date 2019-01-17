@@ -1,4 +1,4 @@
-# YourHabbo CMS 
+# YourHabbo CMS Version 2016
 Installation:
 
 - Base de données => /modules/connection.php
